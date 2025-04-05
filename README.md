@@ -31,8 +31,7 @@
 </div>
 <br>
 
-### ✨ Tools
-<hr>
+## ✨ Tools
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
@@ -44,7 +43,7 @@
 </div>
 <br>
 
-### 📫 Contact
+## 📫 Contact
 
   <a href="mailto:qoendqh@naver.com">
     <img src="https://img.shields.io/badge/qoendqh@naver.com-217346?style=for-the-badge&logo=naver&logoColor=white"/>
