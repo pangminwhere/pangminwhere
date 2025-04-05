@@ -26,9 +26,10 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=Amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
 </div>
 <br>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
 
 ---
 
