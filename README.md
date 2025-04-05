@@ -32,8 +32,8 @@
 
 ### 📫 Contact
 
-- Email: <a href="mailto:qoendqh@naver.com">
-    <img src="https://img.shields.io/badge/qoendqh@naver.com-217346?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+  <a href="mailto:qoendqh@naver.com">
+    <img src="https://img.shields.io/badge/qoendqh@naver.com-217346?style=for-the-badge&logo=naver&logoColor=white"/>
   </a>
 
 ## 🚀 GitHub Stats & Most Used Langs
