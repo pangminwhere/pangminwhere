@@ -9,18 +9,15 @@
 ![Java](https://img.shields.io/badge/Java-white?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
-
 ---
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vuedotjs)
-
 ---
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
-
 ---
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb) 
