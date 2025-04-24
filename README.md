@@ -62,5 +62,5 @@
   </tr>
 </table>
 
-## Algorithm
+## Boj Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qoendqh)](https://solved.ac/qoendqh/)
